@@ -1,0 +1,15 @@
+Executing SQL script in server
+ERROR: Error 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')
+ENGINE = InnoDB' at line 5
+SQL Code:
+        -- -----------------------------------------------------
+        -- Table `Spotify`.`table2`
+        -- -----------------------------------------------------
+        CREATE TABLE IF NOT EXISTS `Spotify`.`table2` (
+        )
+        ENGINE = InnoDB
+
+SQL script execution finished: statements: 11 succeeded, 1 failed
+
+Fetching back view definitions in final form.
+Nothing to fetch

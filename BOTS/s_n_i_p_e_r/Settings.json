@@ -1,0 +1,24 @@
+{
+    "metamask_address": "0xaA5C9b99D8B7E010859bb681397299De2339C5d2",
+    "metamask_private_key": "cf751bed583b3d3d7c8821f8ede332cef5eec4b06976b21bd53eee525417b628",
+
+    "RPC": "https://bsc-dataseed.binance.org/",
+
+    "GWEI_GAS": 6,
+
+    "MaxTXFeeBNB": 0.01,
+
+    "Slippage": 30,
+
+    "MinLiquidityBNB": 0.5,
+    "MaxSellTax": 25,
+    "MaxBuyTax": 15,
+
+    "cc_BlacklistWords": [
+        "ROOT",
+        "allowed",
+        "Accounting",
+        "blacklist"
+    ]
+
+}

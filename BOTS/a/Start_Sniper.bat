@@ -1,0 +1,1 @@
+cmd /k Sniper.exe -t 0x34faa80fec0233e045ed4737cc152a71e490e2e3  -a 0.1 -s 15

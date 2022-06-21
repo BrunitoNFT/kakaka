@@ -1,0 +1,17 @@
+::-webkit-scrollbar {
+    display: none;
+}
+.text-shadow{
+    text-shadow: 3px 3px 5px black;
+}
+
+.text-shadow-sm{
+    text-shadow: 1px 1px 1px black;
+}
+
+.contenedor{
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-start;
+    
+}
